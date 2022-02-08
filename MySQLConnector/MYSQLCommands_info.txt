@@ -1,0 +1,22 @@
+/Log into database
+mysql -u user -p;
+
+/shows databases
+SHOW DATABASES;
+
+/start mysql service
+sudo service mysql start
+
+/server status message
+systemctl status mysql.service
+
+/Mysql service root access
+mysql -u root -p
+Password: HT6j^@3g4
+
+
+
+sudo password: 5skE64j&Q
+
+Server Username: disco_stock_data_rels
+Password: 5skE64j&Q
